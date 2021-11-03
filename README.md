@@ -1,5 +1,5 @@
 # parking_lot
-Design and coding for a customized parking-lot based on rules defined for an gozek assignment
+Design and coding for a customized parking-lot.
 
 # Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. 
